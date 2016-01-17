@@ -1,0 +1,10 @@
+{
+  "name": "easy-redis",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "*",
+    "hiredis": "*",
+    "deasync": "*",
+    "dynamic": "git://github.com/tmyt/node-dynamic.git"
+  }
+}
